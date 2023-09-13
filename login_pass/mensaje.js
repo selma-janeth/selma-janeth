@@ -1,0 +1,1 @@
+alert("su registro ha sido completado");
